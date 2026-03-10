@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Raghulkumaran67
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Raghul Kumaran
 
-<!---
-Raghulkumaran67/Raghulkumaran67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-Stack Developer with 3+ years of experience building scalable web applications using React.js, Next.js, Node.js, and RESTful APIs.
+
+🚀 I build real-time and AI-powered web applications, including voice-driven assistants that process conversations, automate workflows, and integrate with backend systems, as well as low-latency video communication platforms using WebRTC.
+
+🛠 Tech Stack: React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, WebRTC, WebSockets, Tailwind CSS, Docker.
+
+🤝 Open to collaborating on full-stack applications, real-time communication systems, and AI-powered tools.
+
+📫 Reach me: mailtoraghulkumaran@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/raghul--kumaran
